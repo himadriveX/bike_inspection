@@ -1,0 +1,15 @@
+streamlit
+pandas
+pytube
+requests
+google-generativeai
+Pillow
+moviepy
+python-dotenv
+opencv-python
+numpy
+decorator
+imageio
+imageio-ffmpeg
+tqdm
+proglog
